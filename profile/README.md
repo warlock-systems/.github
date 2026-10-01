@@ -21,7 +21,7 @@ Operating from the outer frontier (Deep Rim Outpost #2859 / Citadel Station anch
 
 ## 🛰️ Core Engineering Pillars
 
-### 1. Geminisys VTT // Narrative Engine
+### 1. Omni-Director VTT // Narrative Engine
 A next-generation Virtual Tabletop (VTT) and narrative orchestration platform purpose-built for the **Genesys RPG** narrative dice system. 
 - Real-time narrative resolution & dynamic dice interpretation.
 - Tactical grid & theater-of-the-mind battle management.
